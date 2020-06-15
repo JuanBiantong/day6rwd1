@@ -1,0 +1,14 @@
+  @media screen and (max-width:500px){
+    .container{
+        margin: auto;
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+    }
+    .month {
+        margin: auto;
+        width: 50%;
+        padding: 0 2%;
+        
+    } 
+}
